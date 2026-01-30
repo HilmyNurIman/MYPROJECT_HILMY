@@ -1,1 +1,5 @@
-latihan.txt
+Belajar Git Source Control
+
+Nama Lengkap Kamu : Hilmynuriman
+
+Saya senang belajar Git Source Control di Gamelab Indonesia
